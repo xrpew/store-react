@@ -5,7 +5,13 @@
 	padding: 24px;
 	box-sizing: border-box;
 	position: absolute;
+	background-color: var(--white);
 	right: 0;
+	top: 60px;
+	bottom: 0;
+	border-radius: 6px;
+	border: 1px solid var(--very-light-pink);
+
 }
 .title-container {
 	display: flex;
