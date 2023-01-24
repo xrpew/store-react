@@ -28,7 +28,7 @@ export const Login = () => {
 					<button  className="primary-button login-button" onClick={ handleSubmit}> Login </button>
 					<a href="/">Forgot my password</a>
 				</form>
-				<button > Sign up</button>
+				<button className="primary-button login-button" > Sign up</button>
 			</div>
 		</div>
 	);
